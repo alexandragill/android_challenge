@@ -10,8 +10,9 @@
                 tools:showIn="@layout/activity_main">
 
     <TextView
+        android:id="@+id/carousel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"/>
+        android:text="@string/carousel_text"/>
 
 </RelativeLayout>
